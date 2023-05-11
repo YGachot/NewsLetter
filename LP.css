@@ -1,0 +1,205 @@
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top:auto;
+    margin-bottom: 0px;
+    font-family: '', sans-serif;
+    background-image: url(https://cdn.discordapp.com/attachments/855789623388798998/1095985604598177813/image.png);
+    left: 50%;
+    transform:translateX(-50%);
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color:rgba(255, 81, 81, 1);
+    max-width: 800px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h3 {
+    color: black;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+/* Haut de page */
+
+.logosrfc{
+    width: 44px;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 12px;
+    z-index: 3;
+    opacity: 1;
+}
+
+img.staderennaisfc {
+    margin-top: 10px;
+    margin-left: 15px;
+    z-index: 4;
+    width: 25%;
+}
+
+.bandeH{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    height: 65px;
+    position: sticky;
+    top : 0;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    z-index: 2;
+}
+
+.boutonImgBilleterie {
+    float: right;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+
+
+.boutonImgBoutique {
+    float: right;
+    margin-right: 12px;
+    margin-top: 5px;
+}
+/* NEWS 1 */ 
+
+
+.imgn1 {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.news1{
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    display: block;
+    font-size: 120%;
+    line-height: 30px;
+}
+
+/* NEWS 2 */ 
+
+.imgn2{
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.news2{
+    color: white;
+    text-align: center;
+    width: 72%;
+    margin-left: 15%;
+    display: block;
+    font-size: 120%;
+    line-height: 30px;
+}
+
+/* NEWS 3 */ 
+
+.imgn3{
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.news3{
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    display: block;
+    font-size: 120%;
+    line-height: 30px;
+}
+
+
+
+/* NEWS 4 */ 
+
+.imgn4{
+    width: 60%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.news4{
+    color: white;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    display: block;
+    font-size: 120%;
+    line-height: 30px;
+}
+
+/* NEWS 5 */ 
+
+.news5{
+    text-align: center;
+    width: 100%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    line-height: 30px;
+}
+
+/*footer*/
+.contenu {
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+    border-top: 1px dashed white;
+    width: 100%;
+    height: auto;
+    background: white;
+    color: white;
+}
+
+.contenufooter {
+    width: 100% ;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 18px;
+    padding: 0px 0 0px;
+}
+
+img.imgreseau{
+    width: 20px;
+}
+
+.Liensfooter {
+    width: 25%;
+    margin: 0 30px;
+}
+
+.reseauxfooter {
+    width: 25%;
+    margin: 0 30px;
+}
